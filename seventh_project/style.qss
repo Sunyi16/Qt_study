@@ -1,0 +1,13 @@
+QPushButton#pushButton_2 { border-image: url(:/icon/1.png)}
+QPushButton#pushButton_2:hover { border-image: url(:/icon/01.png)}
+QPushButton#pushButton_2:checked { border-image: url(:/icon/2.png)}
+QPushButton#pushButton_2:checked:hover { border-image: url(:/icon/02.png)}
+
+QRadioButton::indicator:unchecked{border-image: url(:/icon/3.png) }
+QRadioButton::indicator:checked{border-image: url(:/icon/03.png) }
+
+QPushButton#pushButton { background-color: #aa708090; border-radius: 5px}
+QPushButton#pushButton_3 { background-color: #aa708090; border-radius: 5px}
+
+QPushButton#pushButton:checked { background-color: #aaF4A460; border-radius: 5px}
+QPushButton#pushButton_3:checked { background-color: #aaF4A460; border-radius: 5px}
